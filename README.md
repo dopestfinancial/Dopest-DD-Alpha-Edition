@@ -30,3 +30,6 @@ Yes and no. We don't want to release any code before we have finished our alpha 
 As stated, we are in an alpha testing phase currently. So the best thing would be just to write us for the id of the telegram bot. Once the alpha and beta test phases are complete, we will provide the telegram ID to everyone. We are even considering making a reddit bot too. 
 
 `dopestfinancial at protonmail dot com`
+
+## Warnings and important stuff
+We are not giving any finicial advice. The bot is provided as is. We assume no liability. Also we are most likely stupid or something..
