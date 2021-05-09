@@ -21,7 +21,7 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
 
-Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
+Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts with tickers) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
 
 ## It's really free?
 Yes. Currently, we are in the alpha testing phase. We are only allowing 100 people to try out the telegram bot. After we are done testing the bot, we will move to beta testing with more people. This will also be totally free to anyone. Finally, once we are done with our test phases, the telegram bot will STILL be free. We will NEVER sell this as a service. We believe in supporting those penny stonk communities by freely giving access to this analysis tool. 
