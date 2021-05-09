@@ -32,4 +32,4 @@ As stated, we are in an alpha testing phase currently. So the best thing would b
 `dopestfinancial at protonmail dot com`
 
 ## Warnings and important stuff
-We are not giving any finicial advice. The bot is provided as is. We assume no liability. Also we are most likely stupid or something..
+We are not giving any finical advice. The bot is provided as is. We assume no liability. Also, we are most likely stupid or something…
