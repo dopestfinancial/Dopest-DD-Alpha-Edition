@@ -15,7 +15,7 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 * Author must have at least two analyzable stonks
   * Posted at least 5 days ago
   * Stonks must be listed on Yahoo Finance (we use `yfinance` to collect the analytics of the stonk)
-* One of the total percent (1 day, 5 day, or until now) of their virtual portfolio must be at least 20%
+* One of the total percent (1 day, 5 day, or until now) gains of their virtual portfolio must be at least 20%
 * That same total percent must have at least 60% correctness (60% of their stonks returned at least 1% gains)
 * The average gain must be at least 5%
 
