@@ -21,7 +21,7 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
 
-Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts with tickers) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
+Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
 
 ## It's really free?
 Yes. Currently, we are in the alpha testing phase. We are only allowing 100 people to try out the telegram bot. After we are done testing the bot, we will move to beta testing with more people. This will also be totally free to anyone. Finally, once we are done with our test phases, the telegram bot will STILL be free. We will NEVER sell this as a service. We believe in supporting those penny stonk communities by freely giving access to this analysis tool. 
@@ -29,9 +29,8 @@ Yes. Currently, we are in the alpha testing phase. We are only allowing 100 peop
 ## Is this project open source?
 Yes and no. We don't want to release any code before we have finished our alpha and beta testing. We want to make sure what we have done is up to the standards of the open source community. However, after this we will be more than happy to open source the Dopest DD virtual portfolio filtering system. Transparency is very important to us. We want everyone to know how we perform our analysis and how we come to our results of the Dopest DD. 
 
-## Okay, this is awesome how can I use Dopest DD
-As stated, we are in an alpha testing phase currently. So the best thing would be just to write us for the id of the telegram bot. Once the alpha and beta test phases are complete, we will provide the telegram ID to everyone. We are even considering making a reddit bot too. 
-
+## Okay, this is awesome how can I use Dopest DD?
+As stated, we are in an alpha testing phase currently. So the best thing would be just to write us for the id of the telegram bot. Once the alpha and beta test phases are complete, we will provide the telegram ID to everyone.
 `dopestfinancial at protonmail dot com`
 
 ## Warnings and important stuff
