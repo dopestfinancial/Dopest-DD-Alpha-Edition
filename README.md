@@ -8,20 +8,20 @@ Dopest DD is a telegram bot that automatically finds the top ranked authors of p
 
 ## How does Dopest DD work?
 You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](https://www.reddit.com/r/pennystocks/) or [r/RobinHoodPennyStocks](https://www.reddit.com/r/robinHoodPennyStocks/)? Dopest Financial does too! So we decided to find out 'who makes the dopest DD posts'. How? By creating 'virtual portfolios' for every author of a DD post and searching their posting history for previous DD posts. This way as an author makes a new post, we can gather their virtual portfolio of stonks and rank their portfolio on its total gains. We filter out all the authors with a sub-par track record, then we send those results out with a telegram bot in real time. The filter criteria is:
-* DD post must have a ticker in the title (with out without '$')
-* Author must have at least two analzible stonks
+* DD post must have a ticker in the title (without without '$')
+* Author must have at least two analyzable stonks
   * Posted at least 5 days ago
-  * Stonks must be listed on yahoo finance
+  * Stonks must be listed on Yahoo Finance
 * One of the total percent (1 day, 5 day, or until now) of their virtual portfolio must be at least 20%
 * That same total percent must have at least 60% correctness (60% of their stonks returned at least 1% gains)
 * The average gain must be at least 5%
 
 to be labeled Dopest DD.
 
-Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio of all tickers and analzyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
+Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
 
-## Its really free?
-Yes. Currently we are in the alpha testing phase. We are only allowing 100 people to try out the telegram bot. After we are done testing the bot, we will move to beta testing with more people. This will also be totally free to anyone. Finally once we are done with our test phases, the telegram bot will STILL be free. We will NEVER sell this as a service. We believe in supporting those penny stonk communities by freely giving access to this analysis tool. 
+## It's really free?
+Yes. Currently, we are in the alpha testing phase. We are only allowing 100 people to try out the telegram bot. After we are done testing the bot, we will move to beta testing with more people. This will also be totally free to anyone. Finally, once we are done with our test phases, the telegram bot will STILL be free. We will NEVER sell this as a service. We believe in supporting those penny stonk communities by freely giving access to this analysis tool. 
 
 ## Is this project open source?
 Yes and no. We don't want to release any code before we have finished our alpha and beta testing. We want to make sure what we have done is up to the standards of the open source community. However, after this time we will be more than happy to open source the Dopest DD virtual portfolio system. Transparency is very important to us. We want everyone to know how we perform our analysis and how we come to our results of the Dopest DD. 
