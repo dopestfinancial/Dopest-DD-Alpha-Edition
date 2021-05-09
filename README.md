@@ -19,7 +19,7 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 * And must have at least 60% correctness (60% of their stonks returned at least 1% gains) 
 * And the average gain percent must be at least 5%
 
-to be labeled Dopest DD.
+to be labeled Dopest DD. These parameters are subject to change during the alpha testing phase.
 
 Every time an author posts a DD post with a ticker in the title, Dopest DD collects their virtual portfolio of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot. That's it.
 
