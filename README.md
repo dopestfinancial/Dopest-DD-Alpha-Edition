@@ -1,4 +1,4 @@
-<img align="right" height=35% width=35% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/make-it-send-messages.png">
+<img align="left" height=35% width=35% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/make-it-send-messages.png">
 
 # Dopest-DD-Alpha-Edition
 Alpha Testing of Dopest DD for Penny Stocks
@@ -12,6 +12,7 @@ Dopest DD is a telegram bot that automatically finds the top ranked authors of p
 ## How does Dopest DD work?
 You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](https://www.reddit.com/r/pennystocks/) or [r/RobinHoodPennyStocks](https://www.reddit.com/r/robinHoodPennyStocks/)? Dopest Financial does too! So we decided to find out 'who makes the dopest DD posts'. How? By creating 'virtual portfolios' for every author of a DD post by searching their posting history for previous DD posts. This way as an author makes a new post, we can gather their virtual portfolio of stonks and rank their portfolio on its total gains. We filter out all the authors with a sub-par track record, then we send those results out with a telegram bot in real time. 
 
+<img align="right" height=30% width=30% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 ### 1 day, 5 day, until now gains?
 Every penny stonk is evaluated based on the percent change from the date and time of the original DD post until 1 day later, 5 days later, and until the date and time of the evaluation. So you can think of these as 3 columns. 
 
@@ -37,7 +38,7 @@ We calculate the last price avalible at the time of the DD posts to avoid any is
 
 
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
-<img align="left" height=30% width=30% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
+
 ### Summary or tl;dr
 *Every time an author posts a new DD post with a penny ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot.* That's it.
 
