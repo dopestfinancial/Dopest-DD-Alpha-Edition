@@ -1,5 +1,5 @@
 # Dopest-DD-Alpha-Edition
-<img align="right" height=80% width=80% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/make-it-send-messages.png">
+<img align="right" height=50% width=50% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/make-it-send-messages.png">
 Alpha Testing of Dopest DD for Penny Stocks
 
 ## What is Dopest DD?
