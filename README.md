@@ -16,7 +16,7 @@ Every penny stonk is evaluated based on the percent change from the date and tim
 
 #### Why these days, why percent, why not highs/lows?
 Well, we cannot predict the future so we cannot know in advance when the high/lows will be of a stonk. The idea of picking 1 day, 5 day, and until now is based on the following strategy: *If a person were to take all of the positions of the poster's history and blindly sold each after 1 day, 5 days, or held until now, what would be their total gains?* The days were selected based on experimentation of different time intervals and to optimize the turn around time of the analysis (historical DD posts of authors must be at least 5 days old). 
-<img align="left" height=50% width=50% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
+<img align="left" height=30% width=30% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 #### What about when a post is made and the market is closed?
 We calculate the last price avalible at the time of the DD posts to avoid any issues. 
 
