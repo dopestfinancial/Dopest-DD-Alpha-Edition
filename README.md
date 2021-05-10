@@ -36,6 +36,7 @@ We calculate the last price avalible at the time of the DD posts to avoid any is
 * And the average gain percent must be at least 5%
 
 
+
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
 
 ### Summary or tl;dr
