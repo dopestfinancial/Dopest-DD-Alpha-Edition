@@ -22,7 +22,6 @@ Well, we cannot predict the future so we cannot know in advance when the high/lo
 #### What about when a post is made and the market is closed?
 We calculate the last price avalible at the time of the DD posts to avoid any issues. 
 
-
 ### The filter criteria
 * A post is DD when it has either
   * DD in the title
@@ -35,6 +34,7 @@ We calculate the last price avalible at the time of the DD posts to avoid any is
 * One of the total percent (1 day, 5 day, or until now) gains of their virtual portfolio must be at least 20%
 * And must have at least 60% correctness (60% of their stonks returned at least 1% gains) 
 * And the average gain percent must be at least 5%
+
 
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
 
