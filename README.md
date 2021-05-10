@@ -14,7 +14,6 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 
 ### 1 day, 5 day, until now gains?
 Every penny stonk is evaluated based on the percent change from the date and time of the original DD post until 1 day later, 5 days later, and until the date and time of the evaluation. So you can think of these as 3 columns. 
-<img align="left" height=30% width=30% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 
 #### Why these days, why percent, why not highs/lows?
 Well, we cannot predict the future so we cannot know in advance when the high/lows will be of a stonk. The idea of picking 1 day, 5 day, and until now is based on the following strategy: *If a person were to take all of the positions of the poster's history and blindly sold each after 1 day, 5 days, or held until now, what would be their total gains?* The days were selected based on experimentation of different time intervals and to optimize the turn around time of the analysis (historical DD posts of authors must be at least 5 days old). 
@@ -37,9 +36,8 @@ We calculate the last price avalible at the time of the DD posts to avoid any is
 * And the average gain percent must be at least 5%
 
 
-
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
-
+<img align="left" height=30% width=30% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 ### Summary or tl;dr
 *Every time an author posts a new DD post with a penny ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot.* That's it.
 
