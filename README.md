@@ -50,7 +50,7 @@ As stated, we are in an alpha testing phase currently. So the best thing would b
 We are [Bartmoss](https://github.com/AmateurAcademic), [Maxwell](https://github.com/maxwhoppa), and [Milan](https://github.com/MilanLR). Three people who saw a [post on WSB](https://www.reddit.com/r/wallstreetbets/comments/li5vch/i_think_i_found_a_way_to_predict_dips_with_nasdaq/) wrote in the comments with each other and decided to check out the claim together. Although the [original author's hypothsis didn't lead anywhere](https://github.com/AmateurAcademic/WSB-President-Wolfe-Hypothesis), we decided to jointly investigate other oppertunities. That is when Dopest Financial was born. We have been working on Dopest DD in our free time ever since.
 
 ## Warnings, agreements, and other important stuff
-* When you start the telegram bot, it records your telegram user ID to send you the virtual portfolio updates (if it didn't store this ID, it couldn't send you messages).
+* When you `/start` the telegram bot, it records your telegram user ID to send you the virtual portfolio updates (if it didn't store this ID, it couldn't send you messages).
   * As soon as you `/unsubscribe`, your ID is deleted and we retain no data. 
 * Dopest DD is purely for non-commercial purposes
   * non-commerical means that the exact results Dopest DD provides are to be FREE AND NOT TO BE RESOLD OR OTHERWISE USED BY A COMMERICAL ENTITY (for example a company or organization)
