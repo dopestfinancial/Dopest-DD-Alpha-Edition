@@ -15,9 +15,8 @@ You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](htt
 Every penny stonk is evaluated based on the percent change from the date and time of the original DD post until 1 day later, 5 days later, and until the date and time of the evaluation. So you can think of these as 3 columns. 
 
 #### Why these days, why percent, why not highs/lows?
-<img align="left" src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 Well, we cannot predict the future so we cannot know in advance when the high/lows will be of a stonk. The idea of picking 1 day, 5 day, and until now is based on the following strategy: *If a person were to take all of the positions of the poster's history and blindly sold each after 1 day, 5 days, or held until now, what would be their total gains?* The days were selected based on experimentation of different time intervals and to optimize the turn around time of the analysis (historical DD posts of authors must be at least 5 days old). 
-
+<img align="left" src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/telegram_screenshot.jpg">
 #### What about when a post is made and the market is closed?
 We calculate the last price avalible at the time of the DD posts to avoid any issues. 
 
