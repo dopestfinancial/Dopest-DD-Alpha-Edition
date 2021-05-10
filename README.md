@@ -34,6 +34,7 @@ We calculate the last price avalible at the time of the DD posts to avoid any is
 
 to be selected as Dopest DD. These parameters are subject to change during the alpha testing phase.
 
+### Summary or TL;DR
 *Every time an author posts a new DD post with a ticker in the title, Dopest DD collects their virtual portfolio (up to the last ten DD posts) of all tickers and analyses them, if the DD is the dopest, we pass along the virtual portfolio via telegram bot.* That's it.
 
 ## It's really free?
