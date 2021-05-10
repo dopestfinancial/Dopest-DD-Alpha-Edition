@@ -9,7 +9,7 @@ Dopest DD is a telegram bot that automatically finds the top ranked authors of p
 ## How does Dopest DD work?
 You like penny stonk DD (research) posts on Reddit subs like [r/pennystocks](https://www.reddit.com/r/pennystocks/) or [r/RobinHoodPennyStocks](https://www.reddit.com/r/robinHoodPennyStocks/)? Dopest Financial does too! So we decided to find out 'who makes the dopest DD posts'. How? By creating 'virtual portfolios' for every author of a DD post by searching their posting history for previous DD posts. This way as an author makes a new post, we can gather their virtual portfolio of stonks and rank their portfolio on its total gains. We filter out all the authors with a sub-par track record, then we send those results out with a telegram bot in real time. 
 
-### 1 day, 5 day, until now percent change?
+### 1 day, 5 day, until now gains?
 Every penny stonk is evaluated based on the percent change from the date and time of the original DD post until 1 day later, 5 days later, and until the date and time of the evaluation. So you can think of these as 3 columns. 
 
 #### Why these days, why percent, why not highs/lows?
