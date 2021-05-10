@@ -1,5 +1,7 @@
 # Dopest-DD-Alpha-Edition
+<img align="right" src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/make-it-send-messages.png">
 Alpha Testing of Dopest DD for Penny Stocks
+
 ## What is Dopest DD?
 Curious about penny stonks? Too lazy to do your own research? Perhaps you even read DD (research) posts on reddit penny subs. Well, we are too lazy to even read the DD on penny subs. We would prefer to have a magic machine read it and tell us if it is the Dopest DD or not. So we built a magic machine to do exactly that and decided to give it away for free! 
 
