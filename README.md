@@ -54,8 +54,8 @@ We have a deep respect for the community, especially the DD authors and respect 
 We are [Bartmoss](https://github.com/AmateurAcademic), [Maxwell](https://github.com/maxwhoppa), and [Milan](https://github.com/MilanLR). Three people who saw a [post on WSB](https://www.reddit.com/r/wallstreetbets/comments/li5vch/i_think_i_found_a_way_to_predict_dips_with_nasdaq/) and wrote each other in the comments. From there we decided to check out the claim of that post together. Although the [original author's hypothsis didn't lead anywhere](https://github.com/AmateurAcademic/WSB-President-Wolfe-Hypothesis), we decided to jointly investigate other oppertunities. That is when Dopest Financial was born. We have been working on Dopest DD in our free time ever since. We pledge to offer these tools for free with a high level of transparency. We believe trust can only be earned through transparency. At Dopest Financial we really love the Reddit financial subs and would like to contribute to their success by combining our skills to create modern, open source financial tools for everybody. 
 
 ## Warnings, agreements, and other important stuff
-* When you `/start` the telegram bot, it records your telegram user ID to send you the virtual portfolio updates (if it didn't store this ID, it couldn't send you messages).
-  * As soon as you `/unsubscribe`, your ID is deleted and we retain no data. 
+* When you `/start` the telegram bot, it stores your telegram user ID to send you the virtual portfolio updates (if it didn't store this ID, it couldn't send you messages).
+  * As soon as you `/stop`, your ID is deleted and we retain no data. 
 * Dopest DD is purely for non-commercial purposes
   * non-commerical means that the exact results Dopest DD provides are to be FREE AND NOT TO BE RESOLD OR OTHERWISE USED BY A COMMERICAL ENTITY (for example a company or organization)
 * We are not giving any financial advice.
