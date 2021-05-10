@@ -43,7 +43,7 @@ Yes. Currently, we are in the alpha testing phase. We are only allowing 100 peop
 Yes and no. We don't want to release any code before we have finished our alpha and beta testing. We want to make sure what we have done is up to the standards of the open source community. However, after this we will be more than happy to open source the Dopest DD virtual portfolio filtering system. Transparency is very important to us. We want everyone to know how we perform our analysis and how we come to our results of the Dopest DD. 
 
 ## Okay, this is awesome how can I use Dopest DD?
-As stated, we are in an alpha testing phase currently. So the best thing would be just to write us for the id of the telegram bot. Once the alpha and beta test phases are complete, we will provide the telegram ID to everyone.
+As stated, we are in an alpha testing phase currently. So the best thing would be just to write us for the id of the telegram bot then you can write it directly with the `/start` command. Once the alpha and beta test phases are complete, we will provide the telegram ID to everyone.
 `dopestfinancial at protonmail dot com`
 
 ## Yo I'm a DD poster! Can I somehow opt out in being analyzed or something?
