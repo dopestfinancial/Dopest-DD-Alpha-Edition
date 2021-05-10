@@ -22,6 +22,7 @@ Well, we cannot predict the future so we cannot know in advance when the high/lo
 #### What about when a post is made and the market is closed?
 We calculate the last price avalible at the time of the DD posts to avoid any issues. 
 
+
 ### The filter criteria
 * A post is DD when it has either
   * DD in the title
