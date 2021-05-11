@@ -1,4 +1,4 @@
-<img align="left" height=40% width=40% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/meme.png">
+<img align="left" height=35% width=35% src="https://github.com/dopestfinancial/Dopest-DD-Alpha-Edition/blob/main/images/meme.png">
 
 # Dopest-DD-Alpha-Edition
 Alpha Testing of Dopest DD for Penny Stocks
